@@ -1,2 +1,1 @@
-# monty
-A repository for the ALX monty project
+# 0x19. C - Stacks, Queues - LIFO, FIFO
